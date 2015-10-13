@@ -1,0 +1,65 @@
+
+@media (max-width: 479px){
+
+}
+@media (min-width: 640px){
+
+}
+@media (min-width: 768px){
+
+}
+@media (max-width: 960px){
+    .container {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .header-info, .about-us-content, .portfolio-content {
+        float: none;
+        text-align: center;
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .mobile {
+       width: 100%;
+       text-align: center;
+        margin: 0;
+    }
+
+    .devices, .ipad-bg {
+        display: none;
+    }
+
+    .contact-us {
+        position: relative;
+        height: inherit;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .email-form {
+        margin-top: 10px;
+    }
+
+    footer {
+        text-align: center;
+    }
+
+    .copyright {
+        margin-left: 0;
+        float: left;
+        width: 80%;
+        text-align: center;
+    }
+
+    .page-scroll-block {
+        width: inherit;
+        float: right;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+}
